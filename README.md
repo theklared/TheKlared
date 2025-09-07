@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Your Profile View Number!!](https://count.getloli.com/@MelissaSievertsson?name=MelissaSievertsson&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1&num=5)](https://count.getloli.com/)
+[![Your Profile View Number!!](https://count.getloli.com/@MelissaSievertsson?name=MelissaSievertsson&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com/)
 
 </div>
 
