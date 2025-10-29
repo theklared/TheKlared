@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Your Profile View Number!!](https://count.getloli.com/@TheKlared?name=TheKlared&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=110)
+[![Your Profile View Number!!](https://count.getloli.com/@TheKlared?name=TheKlared&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 </div>
 
