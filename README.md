@@ -63,11 +63,11 @@
 <div align='center'>
     <h2>📊 ⋮ Cool Profile Stats</h2>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MelissaSievertsson&show_icons=true&theme=github_dark">
-        <img src='https://github-readme-stats.vercel.app/api?username=MelissaSievertsson&show_icons=true&theme=transparent' alt='Generic GitHub Stats'>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TheKlared&show_icons=true&theme=github_dark">
+        <img src='https://github-readme-stats.vercel.app/api?username=TheKlared&show_icons=true&theme=transparent' alt='Generic GitHub Stats'>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaSievertsson&theme=github_dark">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaSievertsson" alt="Most Used Languages" height="195">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKlared&theme=github_dark">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKlared" alt="Most Used Languages" height="195">
     </picture>
 </div>
