@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Your Profile View Number!!](https://count.getloli.com/@MelissaSievertsson?name=MelissaSievertsson&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com/)
+[![Your Profile View Number!!](https://count.getloli.com/@TheKlared?name=TheKlared&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com/)
 
 </div>
 
@@ -53,7 +53,7 @@
 <div align="center">
   <h2>🔧 ⋮ Helpful Tools (by me :D)</h2>
 
-  <a href="https://melissasievertsson.github.io/VersionConversion">
+  <a href="https://TheKlared/VersionConversion">
     <img 
       src="https://img.shields.io/badge/Version_Conversion-Minecraft_Mod_Tool-blueviolet?style=for-the-badge&logo=minecraft&logoColor=white" 
       alt="Version Conversion Tool Badge">
