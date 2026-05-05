@@ -45,8 +45,3 @@
     </tr>
   </table>
 </div>
-<div align='center'>
-    <h2>📊 | Cool Profile Stats</h2>
-    <img src="./profile/stats.svg" alt="GitHub Stats" />
-    <img src="./profile/top-langs.svg" alt="Most Used Languages" />
-</div>
